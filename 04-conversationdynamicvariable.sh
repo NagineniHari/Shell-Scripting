@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Arguments ,we are provide the deatils at runtime
+# Arguments ,we are provide the deatils at runtime dynamically
 
 PERSON1=$1
 PERSON2=$2
