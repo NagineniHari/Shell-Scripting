@@ -1,9 +1,9 @@
 #!/bin/bash
 
-# -lt --less than
+# -lt -- less than
 # -gt -- greater than
-# -eq --equal
-# -ne --not equal
+# -eq -- equal
+# -ne -- not equal
 
 NUMBER=$1
 
