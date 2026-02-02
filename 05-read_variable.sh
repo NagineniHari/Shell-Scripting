@@ -2,7 +2,6 @@
 
 # read means reading previous lime output and store -s mean hidden the read data
 
-
 echo "enter your location pin code number"
 
 read -s PIN_NUMBER
